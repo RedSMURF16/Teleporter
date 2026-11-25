@@ -6,7 +6,22 @@
 
 ## 📝 Description
 This plugin adds a fully dynamic Teleporter system to Counter-Strike 1.6.
-Teleporters can be placed, managed and configured during gameplay with runtime control over visibility, team access, activation states and exit destinations.
+ Teleporters can be placed, managed and configured during gameplay with runtime control over visibility, team access, activation states and exit destinations.
+
+- Create and remove teleporters during gameplay via an in-game menu
+- Two-part teleporter system with a base entry trigger and a configurable exit point
+- Configurable per teleporter: team access, sprites, beams, glow and dynamic lights
+- Customizable exit arrival effects including animated exit sprites and radial lightning bursts
+- Optional cooldown with random duration ranges before a teleporter becomes active again
+- Optional DLight and ambient/teleport sound effects on activation and arrival
+- Optional random map-wide destination mode with safe hull tracing
+- Optional "Players Only" restriction and telefrag control on exit
+- Dynamic teleporter rotation, bounding-box preview and ghost placement
+- Custom teleporter setups are saved per map and automatically loaded on every map start
+
+## 📋 Requirements
+- ReGameDLL
+- AMX Mod X 1.10+
 
 ## 💬 Commands
 - `say /teleporter` - Opens the Teleporter menu.
