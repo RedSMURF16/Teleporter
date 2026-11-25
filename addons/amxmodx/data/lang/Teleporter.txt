@@ -1,0 +1,63 @@
+[en] -- RedSMURF
+TELEPORTER_CHAT_TAG                            = ^4[TELEPORTER]^1
+TELEPORTER_CHAT_LIMIT                          = You've reached the maximum number of Teleporters ^4%d
+TELEPORTER_CHAT_NO_TELEPORTER                  = There are no Teleporters available
+TELEPORTER_CHAT_CREATE_NEW                     = ^3%s ^1created
+TELEPORTER_CHAT_REMOVE_CURRENT                 = ^3%s ^1removed
+TELEPORTER_CHAT_REMOVE_ALL                     = All Teleporters removed
+TELEPORTER_CHAT_SAVE                           = Teleporter data saved in ^4%s
+TELEPORTER_CHAT_SHOW_CURRENT                   = ^3%s ^1is %L
+TELEPORTER_CHAT_SHOW_ALL_SHOWN                 = All Teleporters are now Shown
+TELEPORTER_CHAT_SHOW_ALL_HIDDEN                = All Teleporters are now Hidden
+TELEPORTER_CHAT_STATUS_CURRENT                 = ^3%s ^1is %L
+TELEPORTER_CHAT_STATUS_ALL_ENABLED             = All Teleporters are now Enabled
+TELEPORTER_CHAT_STATUS_ALL_DISABLED            = All Teleporters are now Disabled
+
+TELEPORTER_CHAT_SHOWN                          = Shown
+TELEPORTER_CHAT_HIDDEN                         = Hidden
+TELEPORTER_CHAT_ENABLED                        = Enabled
+TELEPORTER_CHAT_DISABLED                       = Disabled
+
+TELEPORTER_NAV_NEXT                            = Next
+TELEPORTER_NAV_BACK                            = Back
+TELEPORTER_ON                                  = \y[ON]
+TELEPORTER_OFF                                 = \r[OFF]
+TELEPORTER_SHOWN                               = \y[SHOWN]
+TELEPORTER_HIDDEN                              = \r[HIDDEN]
+TELEPORTER_ENABLED                             = \y[ENABLED]
+TELEPORTER_DISABLED                            = \r[DISABLED]
+
+TELEPORTER_MENU_TITLE                          = \dTeleporter - Version \y%s
+TELEPORTER_MENU_TITLE_PAGE                     = \yPage:\r
+TELEPORTER_ROOT_CREATE                         = Create Teleporter
+TELEPORTER_ROOT_EDIT                           = Edit Teleporter
+TELEPORTER_ROOT_REMOVE                         = Remove Teleporter
+TELEPORTER_ROOT_SAVE                           = Save Data
+TELEPORTER_ROOT_SHOW                           = Visibility Settings
+TELEPORTER_ROOT_STATUS                         = Status Settings
+TELEPORTER_ROOT_NOCLIP                         = Status Noclip %L
+TELEPORTER_ROOT_GODMODE                        = Status Godmode %L
+TELEPORTER_ROOT_ROTATE                         = Adjust Rotation
+TELEPORTER_ROOT_EXIT                           = Place Exit
+
+TELEPORTER_EDIT_SHOW                           = Edit Visibility
+TELEPORTER_EDIT_STATUS                         = Edit Status
+
+TELEPORTER_REMOVE_CURRENT                      = Remove Teleporter >> \y%s
+TELEPORTER_REMOVE_ALL                          = Remove all Teleporters
+
+TELEPORTER_SHOW_CURRENT                        = Show Teleporter >> %s%s %L
+TELEPORTER_SHOW_ALL_SHOW                       = Show all Teleporters
+TELEPORTER_SHOW_ALL_HIDE                       = Hide all Teleporters
+
+TELEPORTER_STATUS_CURRENT                      = Enable Teleporter >> %s%s %L
+TELEPORTER_STATUS_ALL_ENABLE                   = Enable all Teleporters
+TELEPORTER_STATUS_ALL_DISABLE                  = Disable all Teleporters
+
+TELEPORTER_ROTATE_UP                           = Turn Up
+TELEPORTER_ROTATE_DOWN                         = Turn Down
+TELEPORTER_ROTATE_GROUND                       = Set on ground >> %L
+TELEPORTER_ROTATE_SIZE                         = Rotate Size >> %L
+TELEPORTER_ROTATE_PLACE                        = Place Teleporter
+
+TELEPORTER_EXIT_PLACE                          = Place Exit
