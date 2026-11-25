@@ -6,8 +6,7 @@
 
 ## 📝 Description
 This plugin adds a fully dynamic Teleporter system to Counter-Strike 1.6.
- Teleporters can be placed, managed and configured during gameplay with runtime control over visibility, team access, activation states and exit destinations.
-
+Teleporters can be placed, managed and configured during gameplay with runtime control over visibility, team access, activation states and exit destinations.
 - Create and remove teleporters during gameplay via an in-game menu
 - Two-part teleporter system with a base entry trigger and a configurable exit point
 - Configurable per teleporter: team access, sprites, beams, glow and dynamic lights
