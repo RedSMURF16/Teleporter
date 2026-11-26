@@ -56,7 +56,7 @@ TELEPORTER_STATUS_ALL_DISABLE                  = Disable all Teleporters
 
 TELEPORTER_ROTATE_UP                           = Turn Up
 TELEPORTER_ROTATE_DOWN                         = Turn Down
-TELEPORTER_ROTATE_GROUND                       = Set on ground >> %L
+TELEPORTER_ROTATE_GROUND                       = Set on ground Haha >> %L
 TELEPORTER_ROTATE_SIZE                         = Rotate Size >> %L
 TELEPORTER_ROTATE_PLACE                        = Place Teleporter
 
