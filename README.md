@@ -66,6 +66,7 @@ Teleporters can be placed, managed and configured during gameplay with runtime c
 ## 🔄 Changelog
 ```text
 * v1.0: Initial release.
+* v1.1: Smaller models.
 ```
 
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20video-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=qvdJO_i9360)
